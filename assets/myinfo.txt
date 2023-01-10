@@ -1,0 +1,12 @@
+App name: pro Guide
+
+name: sohaib alamleh
+
+Description:
+
+home: card contain programming langauge logos
+
+article: had articles about cards with webviews
+
+videos:
+card with courses about programming langauge using youtube player package and double click on it to route to youtube.com
